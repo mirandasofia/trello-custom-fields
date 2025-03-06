@@ -1,4 +1,20 @@
 {
+  "manifestVersion": 1,
+  "name": "Campos Personalizados",
+  "description": "Um Power-Up para adicionar campos personalizados ao Trello.",
+  "author": "Seu Nome",
+  "icon": {
+    "url": "https://seu-icone-url.com"
+  },
+  "iframeConnectorUrl": "https://seu-usuario.github.io/seu-repositorio/",
+  "allowedOrigins": [
+    "https://trello.com"
+  ],
+  "capabilities": [
+    "board-buttons",
+    "card-buttons",
+    "card-back-section"
+  ]
   "fields": [
     {
       "id": "1",

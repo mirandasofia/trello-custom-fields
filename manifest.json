@@ -1,0 +1,16 @@
+  "manifestVersion": 1,
+  "name": "Campos Personalizados",
+  "description": "Um Power-Up para adicionar campos personalizados ao Trello.",
+  "author": "Sofia",
+  "icon": {
+    "url": "https://mirandasofia.github.io/trello-custom-fields/"
+  },
+  "iframeConnectorUrl": "https://mirandasofia.github.io/trello-custom-fields/",
+  "allowedOrigins": [
+    "https://trello.com"
+  ],
+  "capabilities": [
+    "board-buttons",
+    "card-buttons",
+    "card-back-section"
+  ]

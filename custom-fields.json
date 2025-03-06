@@ -4,9 +4,9 @@
   "description": "Um Power-Up para adicionar campos personalizados ao Trello.",
   "author": "Sofia",
   "icon": {
-    "url": "https://mirandasofia.github.io/index.html"
+    "url": "https://mirandasofia.github.io/trello-custom-fields/"
   },
-  "iframeConnectorUrl": "https://mirandasofia.github.io/index.html/",
+  "iframeConnectorUrl": "https://mirandasofia.github.io/trello-custom-fields/",
   "allowedOrigins": [
     "https://trello.com"
   ],

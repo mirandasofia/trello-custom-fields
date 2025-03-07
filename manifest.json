@@ -1,9 +1,9 @@
 {
   "capabilities": {
     "card-back-section": {
-      "url": "https://mirandasofia.github.io/trello-custom-fields/",
+      "url": "https://test070325.netlify.app/",
       "icon": {
-        "url": "https://mirandasofia.github.io/icon.png"
+        "url": ""
       },
       "title": "Custom Fields"
     }

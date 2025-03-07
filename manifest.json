@@ -1,11 +1,18 @@
 {
   "capabilities": {
     "card-back-section": {
-      "url": "https://test070325.netlify.app/",
+      "url": "https://SEU-NOME.netlify.app/",
       "icon": {
-        "url": ""
+        "url": "https://SEU-NOME.netlify.app/icon.png"
       },
       "title": "Custom Fields"
+    },
+    "card-buttons": {
+      "url": "https://SEU-NOME.netlify.app/",
+      "icon": {
+        "url": "https://SEU-NOME.netlify.app/icon.png"
+      },
+      "text": "Editar Campos"
     }
   }
 }

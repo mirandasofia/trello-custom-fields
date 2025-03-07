@@ -1,0 +1,11 @@
+{
+  "capabilities": {
+    "card-back-section": {
+      "url": "https://mirandasofia.github.io/trello-custom-fields/",
+      "icon": {
+        "url": "https://mirandasofia.github.io/icon.png"
+      },
+      "title": "Custom Fields"
+    }
+  }
+}

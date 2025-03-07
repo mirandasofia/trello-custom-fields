@@ -1,6 +1,12 @@
 // Inicializa a conexão com o Trello Power-Up
 var t = TrelloPowerUp.iframe();
 
+console.log("Power-Up iniciado!", t);
+
+t.render(function(){
+  console.log("Power-Up renderizado com sucesso!");
+});
+
 // Quando o botão "Salvar" for clicado, salvar o valor no cartão
 document.getElementById("salvar").addEventListener("click", function() {
     let valorCampo = document.getElementById("campoPersonalizado").value;
